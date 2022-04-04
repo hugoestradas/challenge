@@ -20,4 +20,6 @@ Later it is showing how it can group (using the DataFrame) the number of trips, 
 and later on, the entire trips.csv file is fully loaded into a PostgreSQL instance called 'postgres' (username and password are 'postgres' as well).
 ![Alt text](https://github.com/hugoestradas/challenge/blob/main/screenshots/PG%20Web%20SQL%20trips.png?raw=true "pgwebpostgresql")
 
-## Part 2:
+## Part 2: Displaying how the data is visualized in interactive dashboards using Apache Superset
+
+![Alt text](https://github.com/hugoestradas/challenge/blob/main/screenshots/Superset%20Trips%20Region.png "firstdashboard")
