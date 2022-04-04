@@ -18,4 +18,4 @@ Later it is showing how it can group (using the DataFrame) the number of trips, 
 ![Alt text](https://github.com/hugoestradas/challenge/blob/main/screenshots/notebook%202.png "notebook2")
 
 and later on, the entire trips.csv file is fully loaded into a PostgreSQL instance called 'postgres' (username and password are 'postgres' as well).
-![Alt text](https://github.com/hugoestradas/challenge/blob/main/screenshots/PG%20Web%20SQL%20trips.png?raw=true "pgwebpostgresql)
+![Alt text](https://github.com/hugoestradas/challenge/blob/main/screenshots/PG%20Web%20SQL%20trips.png?raw=true "pgwebpostgresql")
