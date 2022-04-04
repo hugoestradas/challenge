@@ -1,5 +1,5 @@
 # challenge
-Jobsity challenge Data Engineer
+Jobsity Challenge - Data Engineer
 
 Docker-Compose Project with the following Components:
 
