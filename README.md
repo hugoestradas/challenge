@@ -24,6 +24,6 @@ and later on, the entire trips.csv file is fully loaded into a PostgreSQL instan
 
 ![Alt text](https://github.com/hugoestradas/challenge/blob/main/screenshots/Superset%20Trips%20Region.png "firstdashboard")
 
-## Part 3: Additional Queries
+## Part 3: Additional Queries (queries.sql file)
 
 ![Alt text](https://github.com/hugoestradas/challenge/blob/main/screenshots/PG%20WEB%20SQL%201.png "additionalqueries")
