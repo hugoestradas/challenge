@@ -23,3 +23,7 @@ and later on, the entire trips.csv file is fully loaded into a PostgreSQL instan
 ## Part 2: Displaying how the data is visualized in interactive dashboards using Apache Superset
 
 ![Alt text](https://github.com/hugoestradas/challenge/blob/main/screenshots/Superset%20Trips%20Region.png "firstdashboard")
+
+## Part 3: Additional Queries
+
+![Alt text](https://github.com/hugoestradas/challenge/blob/main/screenshots/PG%20WEB%20SQL%201.png "additionalqueries")
