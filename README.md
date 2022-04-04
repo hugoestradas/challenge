@@ -9,4 +9,4 @@ My solution for this challenge, is a Docker-Compose solution, which later on can
 
 This is the Docker-compose diagram:
 
-![alt text]https://github.com/hugoestradas/challenge/blob/main/docker-compose.jpg?raw=true)
+![Alt text](https://github.com/hugoestradas/challenge/blob/main/dockercomposediagram.png.png?raw=true "docker-composediagram")
